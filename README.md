@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Twitter Trendifier</h3>
+  <h3 align="center">Twitter Trendifier (DISCONTINUED)</h3>
 
   <p align="center">
     A free service that notifies you via email whenever a twitter hashtag of your choosing is trending.
